@@ -548,6 +548,10 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+.container-fluid {
+    background-color: #F7EFD2;
+}
+
 
 @media (min-width: 576px) {
   .container {
